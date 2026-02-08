@@ -1,6 +1,6 @@
-# Crochet Haven Website
+# Yarnora Website
 
-Crochet Haven is a handmade crochet products website developed using PHP and MySQL. The website allows users to browse crochet products, place orders, manage profiles, and submit reviews.
+Yarnora is a handmade crochet products website developed using PHP and MySQL. The website allows users to browse crochet products, place orders, manage profiles, and submit reviews.
 
 ## Features
 
